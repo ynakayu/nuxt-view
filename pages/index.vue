@@ -45,8 +45,7 @@ export default {
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Permanent Marker', cursive;
   display: block;
   font-weight: 300;
   font-size: 100px;
@@ -65,4 +64,5 @@ export default {
 .links {
   padding-top: 15px;
 }
+
 </style>
